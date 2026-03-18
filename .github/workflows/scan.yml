@@ -7,7 +7,7 @@ on:
 
 # replace with current repo
 env:
-  IMAGE_NAME: ghcr.io/${{ github.repository }}
+  IMAGE_NAME: ghcr.io/panosgx/cybersec-hw0-part2
 
 jobs:
   build-and-scan:
